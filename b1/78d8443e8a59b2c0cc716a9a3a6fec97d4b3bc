@@ -1,0 +1,14 @@
+packages/go_router/test/hero_controller_test.dart
+  h_489c0496f9f57d 54-55,83,89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "b178d8443e8a59b2c0cc716a9a3a6fec97d4b3bc",
+  "prompts": {},
+  "humans": {
+    "h_489c0496f9f57d": {
+      "author": "Yashas H Majmudar <yashashm.dev@gmail.com>"
+    }
+  }
+}
