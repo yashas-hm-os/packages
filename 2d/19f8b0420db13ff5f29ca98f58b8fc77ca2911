@@ -1,0 +1,16 @@
+packages/go_router/lib/src/pages/material.dart
+  h_489c0496f9f57d 21-22
+packages/go_router/lib/src/pages/cupertino.dart
+  h_489c0496f9f57d 21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "2d19f8b0420db13ff5f29ca98f58b8fc77ca2911",
+  "prompts": {},
+  "humans": {
+    "h_489c0496f9f57d": {
+      "author": "Yashas H Majmudar <yashashm.dev@gmail.com>"
+    }
+  }
+}
