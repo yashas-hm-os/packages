@@ -1,0 +1,20 @@
+packages/go_router/test/cupertino_test.dart
+  h_489c0496f9f57d 6,22-29
+  h_489c0496f9f57d 30-33
+packages/go_router/test/hero_controller_test.dart
+  h_489c0496f9f57d 1-114
+packages/go_router/test/material_test.dart
+  h_489c0496f9f57d 6,15-16,22-34
+  h_489c0496f9f57d 17,35-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "7b349c2f7a3971eeef640bac18bc2f84108b9628",
+  "prompts": {},
+  "humans": {
+    "h_489c0496f9f57d": {
+      "author": "Yashas H Majmudar <yashashm.dev@gmail.com>"
+    }
+  }
+}
