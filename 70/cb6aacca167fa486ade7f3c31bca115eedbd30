@@ -1,0 +1,20 @@
+packages/go_router/CHANGELOG.md
+  h_489c0496f9f57d 1-8
+packages/go_router/pubspec.yaml
+  h_489c0496f9f57d 4
+packages/go_router/AUTHORS
+  h_489c0496f9f57d 9
+AUTHORS
+  h_489c0496f9f57d 89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "70cb6aacca167fa486ade7f3c31bca115eedbd30",
+  "prompts": {},
+  "humans": {
+    "h_489c0496f9f57d": {
+      "author": "Yashas H Majmudar <yashashm.dev@gmail.com>"
+    }
+  }
+}
